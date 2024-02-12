@@ -43,23 +43,23 @@ header {
     header .brand,
     header nav,
     header.brand p {
-        display:inline-block;
+        display: inline-block;
     }
-    
+    header img {
+        width: 50%;
+    }
     header .brand {
         width: 75%;
     }
     header .brand img{
         vertical-align: middle;
+        text-align: left;
     }
     header .brand p {
         margin-bottom: 0;
     }
 }
 
-    header {
-        text-align: center;
-}
 header .brand,
 header nav,
 header .brand p {
